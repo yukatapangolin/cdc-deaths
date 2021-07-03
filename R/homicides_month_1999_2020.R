@@ -95,7 +95,7 @@ AIC(fit2)
 AIC(fit3)
 appraise(fit1)
 gam.check(fit1)
-summary(fit)
+summary(fit1)
 
 
 new <- homicides_month
