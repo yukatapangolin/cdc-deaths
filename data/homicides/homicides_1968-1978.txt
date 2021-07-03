@@ -1,0 +1,40 @@
+"Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"1968"	"1968"	14336	199533564	7.2
+	"1969"	"1969"	15123	201568206	7.5
+	"1970"	"1970"	16515	203458035	8.1
+	"1971"	"1971"	18375	206782970	8.9
+	"1972"	"1972"	19338	209237411	9.2
+	"1973"	"1973"	20089	211361965	9.5
+	"1974"	"1974"	21090	213436958	9.9
+	"1975"	"1975"	20974	215457198	9.7
+	"1976"	"1976"	19260	217615788	8.9
+	"1977"	"1977"	19699	219808632	9.0
+	"1978"	"1978"	20166	222102279	9.1
+"Total"			204965	2320363006	8.8
+"---"
+"Dataset: Compressed Mortality, 1968-1978"
+"Query Parameters:"
+"ICD-8 69 Groups: Fight, brawl, rape (E960); Assault by corrosive or caustic substance, except poisoning (E961); Assault by"
+"poisoning (E962); Assault by hanging and strangulation (E963); Assault by submersion (drowning) (E964); Assault by firearms and"
+"explosives (E965); Assault by cutting and piercing instruments (E966); Assault by pushing from high place (E967); Assault by"
+"other and unspecified means (E968); Late effect of injury purposely inflicted by other person (E969)"
+"Group By: Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Jun 2, 2021 2:34:45 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1968-1978. CDC WONDER Online Database, compiled from Compressed Mortality File CMF 1968-1988, Series 20, No. 2A, 2000. Accessed"
+"at http://wonder.cdc.gov/cmf-icd8.html on Jun 2, 2021 2:34:45 PM"
+"---"
+Caveats:
+"1. About national population figures: population figures for 1968-69 and 1971-78 are intercensal estimates of the July 1"
+"resident population; population figures for 1970 are April 1 modified census counts. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Population Information."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the number of live births"
+"for the given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."

@@ -1,0 +1,368 @@
+"Notes"	"Year"	"Year Code"	"Injury Mechanism & All Other Leading Causes"	"Injury Mechanism & All Other Leading Causes Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Cut/Pierce"	"GRINJ-001"	1879	279040168	0.7
+	"1999"	"1999"	"Drowning"	"GRINJ-002"	70	279040168	0.0
+	"1999"	"1999"	"Fall"	"GRINJ-003"	17	279040168	Unreliable
+	"1999"	"1999"	"Fire/Flame"	"GRINJ-004"	190	279040168	0.1
+	"1999"	"1999"	"Hot object/Substance"	"GRINJ-005"	7	279040168	Unreliable
+	"1999"	"1999"	"Firearm"	"GRINJ-006"	10828	279040168	3.9
+	"1999"	"1999"	"Other land transport"	"GRINJ-011"	106	279040168	0.0
+	"1999"	"1999"	"Poisoning"	"GRINJ-015"	67	279040168	0.0
+	"1999"	"1999"	"Struck by or against"	"GRINJ-016"	408	279040168	0.1
+	"1999"	"1999"	"Suffocation"	"GRINJ-017"	708	279040168	0.3
+	"1999"	"1999"	"Other specified, classifiable Injury"	"GRINJ-018"	317	279040168	0.1
+	"1999"	"1999"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	881	279040168	0.3
+	"1999"	"1999"	"Unspecified Injury"	"GRINJ-020"	1411	279040168	0.5
+"Total"	"1999"	"1999"			16889	279040168	6.1
+	"2000"	"2000"	"Cut/Pierce"	"GRINJ-001"	1805	281421906	0.6
+	"2000"	"2000"	"Drowning"	"GRINJ-002"	39	281421906	0.0
+	"2000"	"2000"	"Fall"	"GRINJ-003"	18	281421906	Unreliable
+	"2000"	"2000"	"Fire/Flame"	"GRINJ-004"	174	281421906	0.1
+	"2000"	"2000"	"Hot object/Substance"	"GRINJ-005"	7	281421906	Unreliable
+	"2000"	"2000"	"Firearm"	"GRINJ-006"	10801	281421906	3.8
+	"2000"	"2000"	"Other land transport"	"GRINJ-011"	106	281421906	0.0
+	"2000"	"2000"	"Poisoning"	"GRINJ-015"	56	281421906	0.0
+	"2000"	"2000"	"Struck by or against"	"GRINJ-016"	349	281421906	0.1
+	"2000"	"2000"	"Suffocation"	"GRINJ-017"	658	281421906	0.2
+	"2000"	"2000"	"Other specified, classifiable Injury"	"GRINJ-018"	325	281421906	0.1
+	"2000"	"2000"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	964	281421906	0.3
+	"2000"	"2000"	"Unspecified Injury"	"GRINJ-020"	1463	281421906	0.5
+"Total"	"2000"	"2000"			16765	281421906	6.0
+	"2001"	"2001"	"Cut/Pierce"	"GRINJ-001"	1971	284968955	0.7
+	"2001"	"2001"	"Drowning"	"GRINJ-002"	68	284968955	0.0
+	"2001"	"2001"	"Fall"	"GRINJ-003"	17	284968955	Unreliable
+	"2001"	"2001"	"Fire/Flame"	"GRINJ-004"	141	284968955	0.0
+	"2001"	"2001"	"Hot object/Substance"	"GRINJ-005"	7	284968955	Unreliable
+	"2001"	"2001"	"Firearm"	"GRINJ-006"	11348	284968955	4.0
+	"2001"	"2001"	"Other land transport"	"GRINJ-011"	86	284968955	0.0
+	"2001"	"2001"	"Poisoning"	"GRINJ-015"	64	284968955	0.0
+	"2001"	"2001"	"Struck by or against"	"GRINJ-016"	341	284968955	0.1
+	"2001"	"2001"	"Suffocation"	"GRINJ-017"	690	284968955	0.2
+	"2001"	"2001"	"Other specified, classifiable Injury"	"GRINJ-018"	316	284968955	0.1
+	"2001"	"2001"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	831	284968955	0.3
+	"2001"	"2001"	"Unspecified Injury"	"GRINJ-020"	1506	284968955	0.5
+"Total"	"2001"	"2001"			17386	284968955	6.1
+	"2002"	"2002"	"Cut/Pierce"	"GRINJ-001"	2074	287625193	0.7
+	"2002"	"2002"	"Drowning"	"GRINJ-002"	72	287625193	0.0
+	"2002"	"2002"	"Fall"	"GRINJ-003"	16	287625193	Unreliable
+	"2002"	"2002"	"Fire/Flame"	"GRINJ-004"	131	287625193	0.0
+	"2002"	"2002"	"Hot object/Substance"	"GRINJ-005"	3	287625193	Unreliable
+	"2002"	"2002"	"Firearm"	"GRINJ-006"	11829	287625193	4.1
+	"2002"	"2002"	"Other land transport"	"GRINJ-011"	60	287625193	0.0
+	"2002"	"2002"	"Poisoning"	"GRINJ-015"	63	287625193	0.0
+	"2002"	"2002"	"Struck by or against"	"GRINJ-016"	287	287625193	0.1
+	"2002"	"2002"	"Suffocation"	"GRINJ-017"	679	287625193	0.2
+	"2002"	"2002"	"Other specified, classifiable Injury"	"GRINJ-018"	267	287625193	0.1
+	"2002"	"2002"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	623	287625193	0.2
+	"2002"	"2002"	"Unspecified Injury"	"GRINJ-020"	1533	287625193	0.5
+"Total"	"2002"	"2002"			17637	287625193	6.1
+	"2003"	"2003"	"Cut/Pierce"	"GRINJ-001"	2049	290107933	0.7
+	"2003"	"2003"	"Drowning"	"GRINJ-002"	59	290107933	0.0
+	"2003"	"2003"	"Fall"	"GRINJ-003"	15	290107933	Unreliable
+	"2003"	"2003"	"Fire/Flame"	"GRINJ-004"	163	290107933	0.1
+	"2003"	"2003"	"Hot object/Substance"	"GRINJ-005"	4	290107933	Unreliable
+	"2003"	"2003"	"Firearm"	"GRINJ-006"	11920	290107933	4.1
+	"2003"	"2003"	"Other land transport"	"GRINJ-011"	51	290107933	0.0
+	"2003"	"2003"	"Poisoning"	"GRINJ-015"	81	290107933	0.0
+	"2003"	"2003"	"Struck by or against"	"GRINJ-016"	222	290107933	0.1
+	"2003"	"2003"	"Suffocation"	"GRINJ-017"	670	290107933	0.2
+	"2003"	"2003"	"Other specified, classifiable Injury"	"GRINJ-018"	225	290107933	0.1
+	"2003"	"2003"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	603	290107933	0.2
+	"2003"	"2003"	"Unspecified Injury"	"GRINJ-020"	1670	290107933	0.6
+"Total"	"2003"	"2003"			17732	290107933	6.1
+	"2004"	"2004"	"Cut/Pierce"	"GRINJ-001"	2079	292805298	0.7
+	"2004"	"2004"	"Drowning"	"GRINJ-002"	56	292805298	0.0
+	"2004"	"2004"	"Fall"	"GRINJ-003"	17	292805298	Unreliable
+	"2004"	"2004"	"Fire/Flame"	"GRINJ-004"	140	292805298	0.0
+	"2004"	"2004"	"Hot object/Substance"	"GRINJ-005"	3	292805298	Unreliable
+	"2004"	"2004"	"Firearm"	"GRINJ-006"	11624	292805298	4.0
+	"2004"	"2004"	"Other land transport"	"GRINJ-011"	51	292805298	0.0
+	"2004"	"2004"	"Poisoning"	"GRINJ-015"	103	292805298	0.0
+	"2004"	"2004"	"Struck by or against"	"GRINJ-016"	163	292805298	0.1
+	"2004"	"2004"	"Suffocation"	"GRINJ-017"	664	292805298	0.2
+	"2004"	"2004"	"Other specified, classifiable Injury"	"GRINJ-018"	211	292805298	0.1
+	"2004"	"2004"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	547	292805298	0.2
+	"2004"	"2004"	"Unspecified Injury"	"GRINJ-020"	1699	292805298	0.6
+"Total"	"2004"	"2004"			17357	292805298	5.9
+	"2005"	"2005"	"Cut/Pierce"	"GRINJ-001"	2097	295516599	0.7
+	"2005"	"2005"	"Drowning"	"GRINJ-002"	49	295516599	0.0
+	"2005"	"2005"	"Fall"	"GRINJ-003"	18	295516599	Unreliable
+	"2005"	"2005"	"Fire/Flame"	"GRINJ-004"	149	295516599	0.1
+	"2005"	"2005"	"Hot object/Substance"	"GRINJ-005"	8	295516599	Unreliable
+	"2005"	"2005"	"Firearm"	"GRINJ-006"	12352	295516599	4.2
+	"2005"	"2005"	"Other land transport"	"GRINJ-011"	38	295516599	0.0
+	"2005"	"2005"	"Poisoning"	"GRINJ-015"	89	295516599	0.0
+	"2005"	"2005"	"Struck by or against"	"GRINJ-016"	209	295516599	0.1
+	"2005"	"2005"	"Suffocation"	"GRINJ-017"	633	295516599	0.2
+	"2005"	"2005"	"Other specified, classifiable Injury"	"GRINJ-018"	220	295516599	0.1
+	"2005"	"2005"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	548	295516599	0.2
+	"2005"	"2005"	"Unspecified Injury"	"GRINJ-020"	1714	295516599	0.6
+"Total"	"2005"	"2005"			18124	295516599	6.1
+	"2006"	"2006"	"Cut/Pierce"	"GRINJ-001"	2080	298379912	0.7
+	"2006"	"2006"	"Drowning"	"GRINJ-002"	43	298379912	0.0
+	"2006"	"2006"	"Fall"	"GRINJ-003"	19	298379912	Unreliable
+	"2006"	"2006"	"Fire/Flame"	"GRINJ-004"	148	298379912	0.0
+	"2006"	"2006"	"Hot object/Substance"	"GRINJ-005"	4	298379912	Unreliable
+	"2006"	"2006"	"Firearm"	"GRINJ-006"	12791	298379912	4.3
+	"2006"	"2006"	"Other land transport"	"GRINJ-011"	38	298379912	0.0
+	"2006"	"2006"	"Poisoning"	"GRINJ-015"	105	298379912	0.0
+	"2006"	"2006"	"Struck by or against"	"GRINJ-016"	204	298379912	0.1
+	"2006"	"2006"	"Suffocation"	"GRINJ-017"	624	298379912	0.2
+	"2006"	"2006"	"Other specified, classifiable Injury"	"GRINJ-018"	167	298379912	0.1
+	"2006"	"2006"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	592	298379912	0.2
+	"2006"	"2006"	"Unspecified Injury"	"GRINJ-020"	1758	298379912	0.6
+"Total"	"2006"	"2006"			18573	298379912	6.2
+	"2007"	"2007"	"Cut/Pierce"	"GRINJ-001"	1981	301231207	0.7
+	"2007"	"2007"	"Drowning"	"GRINJ-002"	49	301231207	0.0
+	"2007"	"2007"	"Fall"	"GRINJ-003"	15	301231207	Unreliable
+	"2007"	"2007"	"Fire/Flame"	"GRINJ-004"	139	301231207	0.0
+	"2007"	"2007"	"Hot object/Substance"	"GRINJ-005"	2	301231207	Unreliable
+	"2007"	"2007"	"Firearm"	"GRINJ-006"	12632	301231207	4.2
+	"2007"	"2007"	"Other land transport"	"GRINJ-011"	30	301231207	0.0
+	"2007"	"2007"	"Poisoning"	"GRINJ-015"	85	301231207	0.0
+	"2007"	"2007"	"Struck by or against"	"GRINJ-016"	173	301231207	0.1
+	"2007"	"2007"	"Suffocation"	"GRINJ-017"	637	301231207	0.2
+	"2007"	"2007"	"Other specified, classifiable Injury"	"GRINJ-018"	186	301231207	0.1
+	"2007"	"2007"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	586	301231207	0.2
+	"2007"	"2007"	"Unspecified Injury"	"GRINJ-020"	1846	301231207	0.6
+"Total"	"2007"	"2007"			18361	301231207	6.1
+	"2008"	"2008"	"Cut/Pierce"	"GRINJ-001"	2043	304093966	0.7
+	"2008"	"2008"	"Drowning"	"GRINJ-002"	56	304093966	0.0
+	"2008"	"2008"	"Fall"	"GRINJ-003"	20	304093966	0.0
+	"2008"	"2008"	"Fire/Flame"	"GRINJ-004"	94	304093966	0.0
+	"2008"	"2008"	"Hot object/Substance"	"GRINJ-005"	3	304093966	Unreliable
+	"2008"	"2008"	"Firearm"	"GRINJ-006"	12179	304093966	4.0
+	"2008"	"2008"	"Other land transport"	"GRINJ-011"	37	304093966	0.0
+	"2008"	"2008"	"Poisoning"	"GRINJ-015"	101	304093966	0.0
+	"2008"	"2008"	"Struck by or against"	"GRINJ-016"	169	304093966	0.1
+	"2008"	"2008"	"Suffocation"	"GRINJ-017"	562	304093966	0.2
+	"2008"	"2008"	"Other specified, classifiable Injury"	"GRINJ-018"	218	304093966	0.1
+	"2008"	"2008"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	549	304093966	0.2
+	"2008"	"2008"	"Unspecified Injury"	"GRINJ-020"	1795	304093966	0.6
+"Total"	"2008"	"2008"			17826	304093966	5.9
+	"2009"	"2009"	"Cut/Pierce"	"GRINJ-001"	1874	306771529	0.6
+	"2009"	"2009"	"Drowning"	"GRINJ-002"	41	306771529	0.0
+	"2009"	"2009"	"Fall"	"GRINJ-003"	18	306771529	Unreliable
+	"2009"	"2009"	"Fire/Flame"	"GRINJ-004"	91	306771529	0.0
+	"2009"	"2009"	"Hot object/Substance"	"GRINJ-005"	2	306771529	Unreliable
+	"2009"	"2009"	"Firearm"	"GRINJ-006"	11493	306771529	3.7
+	"2009"	"2009"	"Other land transport"	"GRINJ-011"	60	306771529	0.0
+	"2009"	"2009"	"Poisoning"	"GRINJ-015"	87	306771529	0.0
+	"2009"	"2009"	"Struck by or against"	"GRINJ-016"	132	306771529	0.0
+	"2009"	"2009"	"Suffocation"	"GRINJ-017"	543	306771529	0.2
+	"2009"	"2009"	"Other specified, classifiable Injury"	"GRINJ-018"	226	306771529	0.1
+	"2009"	"2009"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	504	306771529	0.2
+	"2009"	"2009"	"Unspecified Injury"	"GRINJ-020"	1728	306771529	0.6
+"Total"	"2009"	"2009"			16799	306771529	5.5
+	"2010"	"2010"	"Cut/Pierce"	"GRINJ-001"	1799	308745538	0.6
+	"2010"	"2010"	"Drowning"	"GRINJ-002"	52	308745538	0.0
+	"2010"	"2010"	"Fall"	"GRINJ-003"	12	308745538	Unreliable
+	"2010"	"2010"	"Fire/Flame"	"GRINJ-004"	89	308745538	0.0
+	"2010"	"2010"	"Hot object/Substance"	"GRINJ-005"	3	308745538	Unreliable
+	"2010"	"2010"	"Firearm"	"GRINJ-006"	11078	308745538	3.6
+	"2010"	"2010"	"Other land transport"	"GRINJ-011"	39	308745538	0.0
+	"2010"	"2010"	"Poisoning"	"GRINJ-015"	79	308745538	0.0
+	"2010"	"2010"	"Struck by or against"	"GRINJ-016"	123	308745538	0.0
+	"2010"	"2010"	"Suffocation"	"GRINJ-017"	544	308745538	0.2
+	"2010"	"2010"	"Other specified, classifiable Injury"	"GRINJ-018"	211	308745538	0.1
+	"2010"	"2010"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	495	308745538	0.2
+	"2010"	"2010"	"Unspecified Injury"	"GRINJ-020"	1735	308745538	0.6
+"Total"	"2010"	"2010"			16259	308745538	5.3
+	"2011"	"2011"	"Cut/Pierce"	"GRINJ-001"	1797	311591917	0.6
+	"2011"	"2011"	"Drowning"	"GRINJ-002"	48	311591917	0.0
+	"2011"	"2011"	"Fall"	"GRINJ-003"	8	311591917	Unreliable
+	"2011"	"2011"	"Fire/Flame"	"GRINJ-004"	86	311591917	0.0
+	"2011"	"2011"	"Hot object/Substance"	"GRINJ-005"	4	311591917	Unreliable
+	"2011"	"2011"	"Firearm"	"GRINJ-006"	11068	311591917	3.6
+	"2011"	"2011"	"Other land transport"	"GRINJ-011"	75	311591917	0.0
+	"2011"	"2011"	"Poisoning"	"GRINJ-015"	105	311591917	0.0
+	"2011"	"2011"	"Struck by or against"	"GRINJ-016"	106	311591917	0.0
+	"2011"	"2011"	"Suffocation"	"GRINJ-017"	526	311591917	0.2
+	"2011"	"2011"	"Other specified, classifiable Injury"	"GRINJ-018"	231	311591917	0.1
+	"2011"	"2011"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	411	311591917	0.1
+	"2011"	"2011"	"Unspecified Injury"	"GRINJ-020"	1773	311591917	0.6
+"Total"	"2011"	"2011"			16238	311591917	5.2
+	"2012"	"2012"	"Cut/Pierce"	"GRINJ-001"	1776	313914040	0.6
+	"2012"	"2012"	"Drowning"	"GRINJ-002"	47	313914040	0.0
+	"2012"	"2012"	"Fall"	"GRINJ-003"	5	313914040	Unreliable
+	"2012"	"2012"	"Fire/Flame"	"GRINJ-004"	71	313914040	0.0
+	"2012"	"2012"	"Hot object/Substance"	"GRINJ-005"	4	313914040	Unreliable
+	"2012"	"2012"	"Firearm"	"GRINJ-006"	11622	313914040	3.7
+	"2012"	"2012"	"Other land transport"	"GRINJ-011"	43	313914040	0.0
+	"2012"	"2012"	"Poisoning"	"GRINJ-015"	103	313914040	0.0
+	"2012"	"2012"	"Struck by or against"	"GRINJ-016"	111	313914040	0.0
+	"2012"	"2012"	"Suffocation"	"GRINJ-017"	534	313914040	0.2
+	"2012"	"2012"	"Other specified, classifiable Injury"	"GRINJ-018"	123	313914040	0.0
+	"2012"	"2012"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	443	313914040	0.1
+	"2012"	"2012"	"Unspecified Injury"	"GRINJ-020"	1806	313914040	0.6
+"Total"	"2012"	"2012"			16688	313914040	5.3
+	"2013"	"2013"	"Cut/Pierce"	"GRINJ-001"	1639	316128839	0.5
+	"2013"	"2013"	"Drowning"	"GRINJ-002"	30	316128839	0.0
+	"2013"	"2013"	"Fall"	"GRINJ-003"	11	316128839	Unreliable
+	"2013"	"2013"	"Fire/Flame"	"GRINJ-004"	95	316128839	0.0
+	"2013"	"2013"	"Hot object/Substance"	"GRINJ-005"	2	316128839	Unreliable
+	"2013"	"2013"	"Firearm"	"GRINJ-006"	11207	316128839	3.5
+	"2013"	"2013"	"Other land transport"	"GRINJ-011"	38	316128839	0.0
+	"2013"	"2013"	"Poisoning"	"GRINJ-015"	97	316128839	0.0
+	"2013"	"2013"	"Struck by or against"	"GRINJ-016"	111	316128839	0.0
+	"2013"	"2013"	"Suffocation"	"GRINJ-017"	533	316128839	0.2
+	"2013"	"2013"	"Other specified, classifiable Injury"	"GRINJ-018"	195	316128839	0.1
+	"2013"	"2013"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	440	316128839	0.1
+	"2013"	"2013"	"Unspecified Injury"	"GRINJ-020"	1720	316128839	0.5
+"Total"	"2013"	"2013"			16118	316128839	5.1
+	"2014"	"2014"	"Cut/Pierce"	"GRINJ-001"	1740	318857056	0.5
+	"2014"	"2014"	"Drowning"	"GRINJ-002"	32	318857056	0.0
+	"2014"	"2014"	"Fall"	"GRINJ-003"	4	318857056	Unreliable
+	"2014"	"2014"	"Fire/Flame"	"GRINJ-004"	86	318857056	0.0
+	"2014"	"2014"	"Hot object/Substance"	"GRINJ-005"	3	318857056	Unreliable
+	"2014"	"2014"	"Firearm"	"GRINJ-006"	11008	318857056	3.5
+	"2014"	"2014"	"Other land transport"	"GRINJ-011"	56	318857056	0.0
+	"2014"	"2014"	"Poisoning"	"GRINJ-015"	100	318857056	0.0
+	"2014"	"2014"	"Struck by or against"	"GRINJ-016"	111	318857056	0.0
+	"2014"	"2014"	"Suffocation"	"GRINJ-017"	520	318857056	0.2
+	"2014"	"2014"	"Other specified, classifiable Injury"	"GRINJ-018"	203	318857056	0.1
+	"2014"	"2014"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	424	318857056	0.1
+	"2014"	"2014"	"Unspecified Injury"	"GRINJ-020"	1585	318857056	0.5
+"Total"	"2014"	"2014"			15872	318857056	5.0
+	"2015"	"2015"	"Cut/Pierce"	"GRINJ-001"	1622	321418820	0.5
+	"2015"	"2015"	"Drowning"	"GRINJ-002"	44	321418820	0.0
+	"2015"	"2015"	"Fall"	"GRINJ-003"	7	321418820	Unreliable
+	"2015"	"2015"	"Fire/Flame"	"GRINJ-004"	96	321418820	0.0
+	"2015"	"2015"	"Firearm"	"GRINJ-006"	12974	321418820	4.0
+	"2015"	"2015"	"Other land transport"	"GRINJ-011"	78	321418820	0.0
+	"2015"	"2015"	"Poisoning"	"GRINJ-015"	111	321418820	0.0
+	"2015"	"2015"	"Struck by or against"	"GRINJ-016"	119	321418820	0.0
+	"2015"	"2015"	"Suffocation"	"GRINJ-017"	502	321418820	0.2
+	"2015"	"2015"	"Other specified, classifiable Injury"	"GRINJ-018"	186	321418820	0.1
+	"2015"	"2015"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	418	321418820	0.1
+	"2015"	"2015"	"Unspecified Injury"	"GRINJ-020"	1631	321418820	0.5
+"Total"	"2015"	"2015"			17788	321418820	5.5
+	"2016"	"2016"	"Cut/Pierce"	"GRINJ-001"	1781	323127513	0.6
+	"2016"	"2016"	"Drowning"	"GRINJ-002"	44	323127513	0.0
+	"2016"	"2016"	"Fall"	"GRINJ-003"	5	323127513	Unreliable
+	"2016"	"2016"	"Fire/Flame"	"GRINJ-004"	120	323127513	0.0
+	"2016"	"2016"	"Hot object/Substance"	"GRINJ-005"	11	323127513	Unreliable
+	"2016"	"2016"	"Firearm"	"GRINJ-006"	14415	323127513	4.5
+	"2016"	"2016"	"Other land transport"	"GRINJ-011"	27	323127513	0.0
+	"2016"	"2016"	"Poisoning"	"GRINJ-015"	135	323127513	0.0
+	"2016"	"2016"	"Struck by or against"	"GRINJ-016"	217	323127513	0.1
+	"2016"	"2016"	"Suffocation"	"GRINJ-017"	502	323127513	0.2
+	"2016"	"2016"	"Other specified, classifiable Injury"	"GRINJ-018"	182	323127513	0.1
+	"2016"	"2016"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	379	323127513	0.1
+	"2016"	"2016"	"Unspecified Injury"	"GRINJ-020"	1544	323127513	0.5
+"Total"	"2016"	"2016"			19362	323127513	6.0
+	"2017"	"2017"	"Cut/Pierce"	"GRINJ-001"	1721	325719178	0.5
+	"2017"	"2017"	"Drowning"	"GRINJ-002"	35	325719178	0.0
+	"2017"	"2017"	"Fall"	"GRINJ-003"	6	325719178	Unreliable
+	"2017"	"2017"	"Fire/Flame"	"GRINJ-004"	129	325719178	0.0
+	"2017"	"2017"	"Hot object/Substance"	"GRINJ-005"	4	325719178	Unreliable
+	"2017"	"2017"	"Firearm"	"GRINJ-006"	14542	325719178	4.5
+	"2017"	"2017"	"Other land transport"	"GRINJ-011"	50	325719178	0.0
+	"2017"	"2017"	"Poisoning"	"GRINJ-015"	151	325719178	0.0
+	"2017"	"2017"	"Struck by or against"	"GRINJ-016"	208	325719178	0.1
+	"2017"	"2017"	"Suffocation"	"GRINJ-017"	512	325719178	0.2
+	"2017"	"2017"	"Other specified, classifiable Injury"	"GRINJ-018"	159	325719178	0.0
+	"2017"	"2017"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	509	325719178	0.2
+	"2017"	"2017"	"Unspecified Injury"	"GRINJ-020"	1482	325719178	0.5
+"Total"	"2017"	"2017"			19508	325719178	6.0
+	"2018"	"2018"	"Cut/Pierce"	"GRINJ-001"	1718	327167434	0.5
+	"2018"	"2018"	"Drowning"	"GRINJ-002"	25	327167434	0.0
+	"2018"	"2018"	"Fall"	"GRINJ-003"	7	327167434	Unreliable
+	"2018"	"2018"	"Fire/Flame"	"GRINJ-004"	99	327167434	0.0
+	"2018"	"2018"	"Hot object/Substance"	"GRINJ-005"	9	327167434	Unreliable
+	"2018"	"2018"	"Firearm"	"GRINJ-006"	13958	327167434	4.3
+	"2018"	"2018"	"Other land transport"	"GRINJ-011"	63	327167434	0.0
+	"2018"	"2018"	"Poisoning"	"GRINJ-015"	124	327167434	0.0
+	"2018"	"2018"	"Struck by or against"	"GRINJ-016"	204	327167434	0.1
+	"2018"	"2018"	"Suffocation"	"GRINJ-017"	485	327167434	0.1
+	"2018"	"2018"	"Other specified, classifiable Injury"	"GRINJ-018"	190	327167434	0.1
+	"2018"	"2018"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	522	327167434	0.2
+	"2018"	"2018"	"Unspecified Injury"	"GRINJ-020"	1425	327167434	0.4
+"Total"	"2018"	"2018"			18829	327167434	5.8
+	"2019"	"2019"	"Cut/Pierce"	"GRINJ-001"	1702	328239523	0.5
+	"2019"	"2019"	"Drowning"	"GRINJ-002"	34	328239523	0.0
+	"2019"	"2019"	"Fall"	"GRINJ-003"	12	328239523	Unreliable
+	"2019"	"2019"	"Fire/Flame"	"GRINJ-004"	108	328239523	0.0
+	"2019"	"2019"	"Hot object/Substance"	"GRINJ-005"	6	328239523	Unreliable
+	"2019"	"2019"	"Firearm"	"GRINJ-006"	14394	328239523	4.4
+	"2019"	"2019"	"Other land transport"	"GRINJ-011"	68	328239523	0.0
+	"2019"	"2019"	"Poisoning"	"GRINJ-015"	159	328239523	0.0
+	"2019"	"2019"	"Struck by or against"	"GRINJ-016"	199	328239523	0.1
+	"2019"	"2019"	"Suffocation"	"GRINJ-017"	455	328239523	0.1
+	"2019"	"2019"	"Other specified, classifiable Injury"	"GRINJ-018"	170	328239523	0.1
+	"2019"	"2019"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	567	328239523	0.2
+	"2019"	"2019"	"Unspecified Injury"	"GRINJ-020"	1247	328239523	0.4
+"Total"	"2019"	"2019"			19121	328239523	5.8
+"Total"					369232	6416872524	5.8
+"---"
+"Dataset: Underlying Cause of Death, 1999-2019"
+"Query Parameters:"
+"ICD-10 Codes: X85-Y09 (Assault); Y87.1 (Sequelae of assault)"
+"Group By: Year; Injury Mechanism & All Other Leading Causes"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jun 20, 2021 2:30:52 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Jun 20, 2021 2:30:52 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Mechanism & All Other Leading Causes] cause equivalent selections in"
+"the other variables. More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"6. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"
+"2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011"
+"postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age"
+"groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"8. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"9. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
