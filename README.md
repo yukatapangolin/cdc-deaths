@@ -5,7 +5,7 @@
 
 ![homicide chart](https://github.com/yukatapangolin/cdc-deaths/blob/master/chart.png?raw=true)
 
-This repository cleans and bundles datasets related to the increase in homicides, drug overdoses and transport related deaths after the COVID-19 pandemic. The datasets were last updated on July 1, 2020. 
+This repository cleans and bundles datasets related to the increase in homicides, drug overdoses and transport related deaths after the COVID-19 pandemic. The datasets were last updated on July 1, 2021. 
 
 
 The data is located in the `out` directory
